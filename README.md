@@ -1,4 +1,4 @@
-# IOT-Tessel-board-hacking
+# IOT-with-Tessel-board
 It's a simple IOT implementation using Tessel board (https://tessel.io/)
 
 There are two part of my code, and I put them separately into "tessel" and "server":
